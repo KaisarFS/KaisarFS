@@ -11,7 +11,11 @@
     <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarfs" />
     <a href="https://instagram.com/kaisarfs" target="_blank"> 
         <img src="https://img.shields.io/badge/Instagram-%23353a3b.svg?logo=Instagram&logoColor=white" />
-    </a> 
+    </a>
+    
+    <a href="https://visitcount.itsvg.in"> 
+        <img src="https://visitcount.itsvg.in/api?id=kaisarfs&icon=#5db1c4&color=#5db1c4" />
+    </a>
     
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false">
