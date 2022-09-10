@@ -10,7 +10,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarfs" />
     <a href="https://instagram.com/kaisarfs" target="_blank"> 
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Instagram-%23353a3b.svg?logo=Instagram&logoColor=white" />
     </a> 
     
 <p align="center">
