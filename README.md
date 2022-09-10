@@ -10,6 +10,7 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
-<p align="center">
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false></a>
+![](https://github-readme-stats.vercel.app/api?username=kaisarfs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarfs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
