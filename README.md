@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarfs" />
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram " />
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 200px;" />
     
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false">
