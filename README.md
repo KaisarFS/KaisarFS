@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=a64d79&style=flat" alt="kaisarfs" />
+    <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=23D62F79&style=flat" alt="kaisarfs" />
     <a href="https://instagram.com/kaisarfs" target="_blank"> 
         <img src="https://img.shields.io/badge/Instagram-%23353a3b.svg?logo=Instagram&logoColor=white" />
     </a>
