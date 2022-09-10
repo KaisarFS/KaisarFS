@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarfs" />
     
 <p align="center">
     ![](https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false)<br/>
