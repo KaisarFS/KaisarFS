@@ -10,7 +10,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kaisarfs&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarfs" />
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaisarfs)">
-    <a href="https://instagram.com/kaisarfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaisarfs" height="30" width="40" /></a>
     
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false">
