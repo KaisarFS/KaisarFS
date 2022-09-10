@@ -10,4 +10,6 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false)<br/>
+<p align="center">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false)<br/>
+</p>
