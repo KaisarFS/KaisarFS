@@ -10,3 +10,6 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
+<p align="center">
+    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false></a>
+</p>
