@@ -12,7 +12,7 @@
     <a href="https://instagram.com/kaisarfs" target="_blank"> 
         <img src="https://img.shields.io/badge/Instagram-%23353a3b.svg?logo=Instagram&logoColor=white" />
     </a>
-    
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaisarFS&theme=black-ice)](https://git.io/streak-stats)
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaisarFS&theme=black-ice">
 </p>
