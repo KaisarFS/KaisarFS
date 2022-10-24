@@ -15,4 +15,5 @@
     
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarfs&theme=dark&hide_border=false">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaisarFS&theme=black-ice)](https://git.io/streak-stats)
 </p>
