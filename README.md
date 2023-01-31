@@ -16,6 +16,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaisarFS&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" />
+📊 **Weekly coding stats**
+[![wakatime](https://wakatime.com/badge/user/b847b213-1e14-4059-a6ff-19351e88114a.svg)](https://wakatime.com/@b847b213-1e14-4059-a6ff-19351e88114a)
+
 📊 **Weekly coding stats**
 <!--START_SECTION:waka-->
 
