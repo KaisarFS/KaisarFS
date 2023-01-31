@@ -18,6 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> **Flight hours**
 <br>
+<br>
 [![wakatime](https://wakatime.com/badge/user/b847b213-1e14-4059-a6ff-19351e88114a.svg)](https://wakatime.com/@b847b213-1e14-4059-a6ff-19351e88114a)
 
 📊 **Weekly coding stats**
