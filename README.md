@@ -21,7 +21,7 @@
 <br>
 [![wakatime](https://wakatime.com/badge/user/b847b213-1e14-4059-a6ff-19351e88114a.svg)](https://wakatime.com/@b847b213-1e14-4059-a6ff-19351e88114a)
 
-📊 **Weekly coding stats**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Five%20O%E2%80%99Clock.png" alt="Five O’Clock" width="25" height="25" /> **Weekly coding stats**
 <!--START_SECTION:waka-->
 
 ```text
