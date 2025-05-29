@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   10 mins         ██████████████████████░░░   87.52 %
-JSON   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
