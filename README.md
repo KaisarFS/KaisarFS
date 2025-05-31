@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart       2 hrs 9 mins    ███████████████████████░░   91.55 %
+Markdown   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
